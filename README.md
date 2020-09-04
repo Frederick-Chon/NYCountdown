@@ -4,7 +4,7 @@ New Year Countdown is a dynamic countdown landing page that counts down until th
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/NYCountdown/)
 
 ## Built Using
 
